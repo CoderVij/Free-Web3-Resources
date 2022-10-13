@@ -10,7 +10,7 @@
 <b>Paid Courses</b>
 <ol>
 <li>https://www.bloomtech.com/courses/web3</li>
-<ol>
+</ol>
 
 <b>IDE (Integrated Development Environment) </b>
 <ol>
@@ -19,4 +19,4 @@
 
 <ol>
 <li></li>
-<ol>
+</ol>
