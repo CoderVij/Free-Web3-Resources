@@ -4,7 +4,7 @@
 <ol>
 <li>https://buildspace.so/</li>
 <li>https://learnweb3.io/</li>
-<li>https://www.chainshot.com/courses<li>
+<li>https://www.chainshot.com/courses</li>
 </ol>
 
 <b>Paid Courses</b>
@@ -17,6 +17,4 @@
 <li>https://remix.ethereum.org/ </li>
 </ol>
 
-<ol>
-<li></li>
-</ol>
+
