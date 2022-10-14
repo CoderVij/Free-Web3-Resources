@@ -18,3 +18,15 @@
 </ol>
 
 
+<b>Development Tools </b>
+<ol>
+<li>https://www.alchemy.com/</li>
+<li>https://www.quicknode.com/</li>
+</ol>
+
+<b> IPFS </b>
+<ol>
+<li>https://www.pinata.cloud/ </li>
+</ol>
+
+
