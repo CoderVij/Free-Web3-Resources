@@ -18,7 +18,7 @@
 </ol>
 
 
-<b>Development Tools </b>
+<b>Node/Network Management Tools </b>
 <ol>
 <li>https://www.alchemy.com/</li>
 <li>https://www.quicknode.com/</li>
@@ -30,3 +30,10 @@
 </ol>
 
 
+<b>Generalist Tools</b>
+<ol>
+<li> <p>API query Tool</p> https://graphql.org/</li>
+<li> <p>Composalbe Web3 Data Network</p>https://ceramic.network/</li>
+<li> <p>Decentralized Oracle Network</p>https://chain.link/</li>
+<li> <p>Frontend Deployment Platform</p>https://vercel.com/</li>
+</ol>
