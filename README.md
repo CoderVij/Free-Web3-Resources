@@ -37,3 +37,10 @@
 <li> <p>Decentralized Oracle Network</p>https://chain.link/</li>
 <li> <p>Frontend Deployment Platform</p>https://vercel.com/</li>
 </ol>
+
+<b>News Letter </b>
+<ol>
+<li>https://weekinethereum.substack.com/</li>
+<li>https://www.theblockcrypto.com/</li>
+<li>https://ethhub.substack.com/</li>
+</ol>
