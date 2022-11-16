@@ -20,6 +20,8 @@
 <b>Frontend Ethereum API's</b>
 <ol>
 <li><a href="https://web3js.readthedocs.io/en/v1.8.1/getting-started.html">Web3.js</a> </li>
+<li><a href="https://docs.ethers.io/v5/">Ether.js</a> </li>
+<li><a href="https://usedapp.io/">useDapp</a> </li>
 </ol>
 
 
