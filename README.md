@@ -50,6 +50,12 @@
 <li> <p>Frontend Deployment Platform</p>https://vercel.com/</li>
 </ol>
 
+<b>Security Tool</b>
+<ol>
+<li> <p>MythX</p> https://mythx.io/ </li>
+<li> <p>SolHint</p> https://github.com/protofire/solhint </li>
+</ol>
+
 <b>News Letter </b>
 <ol>
 <li>https://weekinethereum.substack.com/</li>
